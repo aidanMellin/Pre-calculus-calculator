@@ -7,5 +7,9 @@ If you're running **Linux / macOS**:
   
   If it does not, type the following commands
   
-  _javac source/location/base.java
-  java source.location.base_
+  _javac source/location/base.java_
+  _java source.location.base_
+
+If you're running **Windows**:
+
+...
