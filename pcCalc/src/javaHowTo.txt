@@ -1,0 +1,4 @@
+javac fileName.java
+
+(from inside src folder)
+java out.___.__.__.fileName (no ext)
